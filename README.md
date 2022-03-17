@@ -37,6 +37,7 @@ Depend upon abstractions, not concretions.
 | Principle | Information |
 | -- | -- |
 | Single responsibility | [📄](./SolidPrinciples.SingleResponsibilityPrinciple/README.md) |
+| Open Closed | [📄](./SolidPrinciples.OpenClosedPrinciple/README.md) |
 
 # Technologies
 
