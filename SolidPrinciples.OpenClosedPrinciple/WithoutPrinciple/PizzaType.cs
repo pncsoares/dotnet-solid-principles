@@ -3,5 +3,5 @@
 public enum PizzaType
 {
     Tomato = 1,
-    Mushroom = 2,
+    Mushroom = 2
 }
