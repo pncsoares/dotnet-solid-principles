@@ -40,6 +40,7 @@ Depend upon abstractions, not concretions.
 | Open Closed | [📄](./SolidPrinciples.OpenClosedPrinciple/README.md) |
 | Liskov Substitution | [📄](./SolidPrinciples.LiskovSubstitutionPrinciple/README.md) |
 | Interface Segregation | [📄](./SolidPrinciples.InterfaceSegregationPrinciple/README.md) |
+| Dependency Inversion | [📄](./SolidPrinciples.DependencyInversionPrinciple/README.md) |
 
 # Technologies
 
