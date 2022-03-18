@@ -38,6 +38,7 @@ Depend upon abstractions, not concretions.
 | -- | -- |
 | Single responsibility | [📄](./SolidPrinciples.SingleResponsibilityPrinciple/README.md) |
 | Open Closed | [📄](./SolidPrinciples.OpenClosedPrinciple/README.md) |
+| Liskov Substitution | [📄](./SolidPrinciples.LiskovSubstitutionPrinciple/README.md) |
 
 # Technologies
 
