@@ -21,7 +21,7 @@ So to get good quality/better output of work, one method should do one task at t
 
 - **Clean**: clean and standard code
 - **Maintainable**: Manageable and easy for maintenance
-- **Scalable and readable**:  Easy to refactor or change and readeble code
+- **Scalable and readable**:  Easy to refactor or change and readable code
 
 ## Disadvantages
 
