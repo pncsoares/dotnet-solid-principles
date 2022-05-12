@@ -45,7 +45,7 @@ Depend upon abstractions, not concretions.
 # Technologies
 
 | Technology | Documentation |  
-| -- | -- | -- |
+| -- | -- |
 | Dotnet | [📎](https://docs.microsoft.com/en-gb/dotnet/) | 
 | C# | [📎](https://docs.microsoft.com/en-us/dotnet/csharp/) |
 
