@@ -41,3 +41,13 @@ Many client-specific interfaces are better than one general-purpose interface.
 Depend upon abstractions, not concretions.
 
 [Code example and documentation 📄](./SolidPrinciples.DependencyInversionPrinciple/README.md)
+
+# 🤲 Contribute
+
+Any contributions are highly appreciated 🙏
+
+You can contribute in some ways:
+1. Fork the project and submit a PR with an improvement of any kind, code, documentation, scenarios, pros, cons, spelling, etc;
+1. If you noticed something and want to register it so others can handle it, create a new issue with the label that better fits that scenario and fill as much information as you can.
+
+Please make sure that you read and follow the [Contribution Guide](./CONTRIBUTING.md)
