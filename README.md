@@ -57,3 +57,9 @@ Please make sure that you read and follow the [Contribution Guide](./CONTRIBUTIN
 Do you have any suggestions on how we could improve this project overall? Let us know! We'd love to hear your feedback!
 
 Use the `discussions` tab for this purpose. Choose the category that better fits the scope of the discussion.
+
+# 🌱 Spread the word!
+
+If the information from this repo was useful to you in any way, make sure you give it a star ⭐
+
+This way others can find it and benefit too! Together we can grow and make our community better! 
