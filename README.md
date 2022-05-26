@@ -48,7 +48,8 @@ Any contributions are highly appreciated 🙏
 
 You can contribute in some ways:
 1. Fork the project and submit a PR with an improvement of any kind, code, documentation, scenarios, pros, cons, spelling, etc;
-1. If you noticed something and want to register it so others can handle it, create a new issue with the label that better fits that scenario and fill as much information as you can.
+1. If you noticed something and want to register it so others can handle it, create a new issue with the label that better fits that scenario and fill as much information as you can;
+1. Answer questions that you know about in the issues and/or in the discussion section.
 
 Please make sure that you read and follow the [Contribution Guide](./CONTRIBUTING.md)
 
@@ -63,3 +64,5 @@ Use the `discussions` tab for this purpose. Choose the category that better fits
 If the information from this repo was useful to you in any way, make sure you give it a star ⭐
 
 This way others can find it and benefit too! Together we can grow and make our community better! 
+
+Thanks 🙏
