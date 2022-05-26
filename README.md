@@ -51,3 +51,9 @@ You can contribute in some ways:
 1. If you noticed something and want to register it so others can handle it, create a new issue with the label that better fits that scenario and fill as much information as you can.
 
 Please make sure that you read and follow the [Contribution Guide](./CONTRIBUTING.md)
+
+# 📢 Give feedback
+
+Do you have any suggestions on how we could improve this project overall? Let us know! We'd love to hear your feedback!
+
+Use the `discussions` tab for this purpose. Choose the category that better fits the scope of the discussion.
