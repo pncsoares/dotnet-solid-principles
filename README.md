@@ -2,6 +2,8 @@
 
 This repository contains the SOLID principles details and code examples written in Dotnet C#.
 
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md)
+
 ## Definition
 
 SOLID is a mnemonic acronym for five design principles intended to make software designs more understandable, flexible, and maintainable.
