@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidPrinciples.SingleResponsibilityPrinciple", "SolidPrinciples.SingleResponsibilityPrinciple\SolidPrinciples.SingleResponsibilityPrinciple.csproj", "{7EA8A725-804A-449A-AB6E-8E78A93F3EAE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleResponsibilityPrinciple", "SingleResponsibilityPrinciple\SingleResponsibilityPrinciple.csproj", "{7EA8A725-804A-449A-AB6E-8E78A93F3EAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidPrinciples.OpenClosedPrinciple", "SolidPrinciples.OpenClosedPrinciple\SolidPrinciples.OpenClosedPrinciple.csproj", "{2422FC6B-8263-4DE7-821C-BEB4C87DA15E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClosedPrinciple", "OpenClosedPrinciple\OpenClosedPrinciple.csproj", "{2422FC6B-8263-4DE7-821C-BEB4C87DA15E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidPrinciples.LiskovSubstitutionPrinciple", "SolidPrinciples.LiskovSubstitutionPrinciple\SolidPrinciples.LiskovSubstitutionPrinciple.csproj", "{22EB438F-40D3-498D-B9DB-290EBD8551E1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovSubstitutionPrinciple", "LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple.csproj", "{22EB438F-40D3-498D-B9DB-290EBD8551E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidPrinciples.InterfaceSegregationPrinciple", "SolidPrinciples.InterfaceSegregationPrinciple\SolidPrinciples.InterfaceSegregationPrinciple.csproj", "{E30F8BAC-F6C0-4205-A462-FE44BE5369E2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSegregationPrinciple", "InterfaceSegregationPrinciple\InterfaceSegregationPrinciple.csproj", "{E30F8BAC-F6C0-4205-A462-FE44BE5369E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidPrinciples.DependencyInversionPrinciple", "SolidPrinciples.DependencyInversionPrinciple\SolidPrinciples.DependencyInversionPrinciple.csproj", "{2CB1A60B-4C4F-4ECB-BD4D-6D4F922584B7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInversionPrinciple", "DependencyInversionPrinciple\DependencyInversionPrinciple.csproj", "{2CB1A60B-4C4F-4ECB-BD4D-6D4F922584B7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
